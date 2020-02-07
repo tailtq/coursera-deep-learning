@@ -51,7 +51,7 @@
     - [x] It can be trained as a supervised learning problem.
     - [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
     - [x] It is applicable when the input/output is a sequence (e.g., a sequence of words).
-    - [x] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
+    - [x] ~~RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....~~
     
 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent?
 
